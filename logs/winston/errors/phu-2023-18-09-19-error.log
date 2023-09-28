@@ -1,0 +1,60 @@
+Mon Sep 18 2023 19:11:33 } [PH] error: 
+Invalid `prisma.faculty.create()` invocation:
+
+{
+  data: {
+    facultyId: "F-00001",
+    firstName: "Faculty",
+    lastName: "5",
+    middleName: "Aunto",
+    profileImage: "https://res.cloudinary.com/dbgrq28js/image/upload/v1694958252/er2xqoaqwgdr3vxmq83n.jpg",
+    email: "faculty_5@gmail.com",
+    contactNo: "faculty_5",
+    gender: "male",
+    bloodGroup: "O+",
+    designation: "Lecturer",
+    academicDepartmentId: undefined,
+    academicFacultyId: undefined,
++   academicDepartment: {
++     create: AcademicDepartmentCreateWithoutFacultiesInput | AcademicDepartmentUncheckedCreateWithoutFacultiesInput,
++     connectOrCreate: AcademicDepartmentCreateOrConnectWithoutFacultiesInput,
++     connect: AcademicDepartmentWhereUniqueInput
++   }
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true
+  }
+}
+
+Argument `academicDepartment` is missing.
+Mon Sep 18 2023 19:13:41 } [PH] error: 
+Invalid `prisma.faculty.create()` invocation:
+
+{
+  data: {
+    facultyId: "F-00002",
+    firstName: "Fahim",
+    lastName: "Ahammed",
+    middleName: "Aunto",
+    profileImage: "https://res.cloudinary.com/dbgrq28js/image/upload/v1694959007/wgluar1nctcy8jsdaqwe.jpg",
+    email: "faculty_6@gmail.com",
+    contactNo: "faculty_6",
+    gender: "male",
+    bloodGroup: "O+",
+    designation: "Lecturer",
+    academicDepartmentId: undefined,
+    academicFacultyId: undefined,
++   academicDepartment: {
++     create: AcademicDepartmentCreateWithoutFacultiesInput | AcademicDepartmentUncheckedCreateWithoutFacultiesInput,
++     connectOrCreate: AcademicDepartmentCreateOrConnectWithoutFacultiesInput,
++     connect: AcademicDepartmentWhereUniqueInput
++   }
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true
+  }
+}
+
+Argument `academicDepartment` is missing.

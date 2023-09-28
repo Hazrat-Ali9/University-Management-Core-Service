@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Apollo\\umcs-starter\\logs\\winston\\errors\\.76750a6901d5790a50478ccc377565522e3028bf-audit.json",
+    "files": [
+        {
+            "date": 1689101976765,
+            "name": "D:\\Apollo\\umcs-starter\\logs\\winston\\errors\\phu-2023-12-07-00-error.log",
+            "hash": "baff6d4590e096b087470e5e022801d933734636468df57d672f59773e6c74d7"
+        },
+        {
+            "date": 1689102144751,
+            "name": "D:\\Apollo\\umcs-starter\\logs\\winston\\errors\\phu-2023-12-07-01-error.log",
+            "hash": "f4f8f61a05cf76727edee53c766927eaa8a2664b62967de4b64d3488dab25fb5"
+        }
+    ],
+    "hashType": "sha256"
+}

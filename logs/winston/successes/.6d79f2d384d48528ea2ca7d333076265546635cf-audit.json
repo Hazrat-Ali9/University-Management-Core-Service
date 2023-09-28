@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Apollo\\umcs-starter\\logs\\winston\\successes\\.6d79f2d384d48528ea2ca7d333076265546635cf-audit.json",
+    "files": [
+        {
+            "date": 1689101976757,
+            "name": "D:\\Apollo\\umcs-starter\\logs\\winston\\successes\\phu-2023-12-07-00-success.log",
+            "hash": "876679e560d3a2409328b523f24f6361497ae0bce1202f51197ea6353a303070"
+        },
+        {
+            "date": 1689102144739,
+            "name": "D:\\Apollo\\umcs-starter\\logs\\winston\\successes\\phu-2023-12-07-01-success.log",
+            "hash": "f7f9e19b95bb660b9369560075bc985afa20fbcb283085c31bd4fbd6f8032356"
+        }
+    ],
+    "hashType": "sha256"
+}
