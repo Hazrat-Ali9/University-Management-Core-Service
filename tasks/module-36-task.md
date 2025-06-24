@@ -1,6 +1,5 @@
 # Module-36
 
-
 1. Add roles to the routes in the following modules:
 - Academic Department
 - Academic Faculty
