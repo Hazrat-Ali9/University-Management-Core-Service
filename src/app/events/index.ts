@@ -1,4 +1,4 @@
-// index js
+// Index js
 import initFacultyEvents from "../modules/faculty/faculty.events";
 import initStudentEvents from "../modules/student/student.events";
 
