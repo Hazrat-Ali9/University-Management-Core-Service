@@ -2,7 +2,7 @@
 
 # 🐧 Programmer || Software Engineering
 
-# 🐢 University Management Core Service
+# 🚀 University Management Core Service
 
 ## 🐊 Resources
 
