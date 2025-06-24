@@ -1,6 +1,6 @@
 # 🐸 Hazrat Ali
 
-# 🐧 Programmer || Software Engineering
+# 🚢 Programmer || Software Engineering
 
 # 🚀 University Management Core Service
 
