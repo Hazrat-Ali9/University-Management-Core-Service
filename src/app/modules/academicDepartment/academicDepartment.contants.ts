@@ -3,7 +3,7 @@ export const academicDepartmentFilterableFields: string[] = [
     'id',
     'academicFacultyId'
 ];
-
+// academic department constants
 export const academicDepartmentSearchableFields: string[] = ['title'];
 
 export const academicDepartmentRelationalFields: string[] = ['academicFacultyId'];
