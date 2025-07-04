@@ -5,7 +5,7 @@ import pick from '../../../shared/pick';
 import sendResponse from '../../../shared/sendResponse';
 import { academicDepartmentFilterableFields } from './academicDepartment.contants';
 import { AcademicDepartmentService } from './academicDepartment.service';
-
+//academic department controller
 const insertIntoDB = catchAsync(async (req: Request, res: Response) => {
     const result = await AcademicDepartmentService.insertIntoDB(req.body);
     sendResponse(res, {
