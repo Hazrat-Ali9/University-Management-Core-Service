@@ -4,7 +4,7 @@ import auth from '../../middlewares/auth';
 import validateRequest from '../../middlewares/validateRequest';
 import { AcademicDepartmentController } from './academicDepartment.controller';
 import { AcademicDepartmentValidation } from './academicDepartment.validations';
-
+//academic department Route
 const router = express.Router();
 
 router.get('/', AcademicDepartmentController.getAllFromDB);
