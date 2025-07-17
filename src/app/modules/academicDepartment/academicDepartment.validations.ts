@@ -1,5 +1,5 @@
 import { z } from 'zod';
-
+//academic department Validations
 const create = z.object({
     body: z.object({
         title: z.string({
